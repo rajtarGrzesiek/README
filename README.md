@@ -8,3 +8,4 @@ Repository created as part of a web development course.
   
 **To jest pogrubiony tekst.**  
 A ten nie jest pogrubiony.
+*To jest tekst pochylony.*
